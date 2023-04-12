@@ -1,5 +1,16 @@
 {
+    "name": "raoqingbing/gggggg",
+    "description": "369",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "rqb",
+            "email": "rqb@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "require": {
-        "firebase/php-jwt": "^6.0"
-    }
+		"firebase/php-jwt": "^6.0"
+	}
 }
